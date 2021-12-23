@@ -1,0 +1,16 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+
+    background-color:#0c340d;;
+    color:#ffe70f;
+    font-family: sans-serif;
+}
+.message{
+
+    text-align: center;
+    margin-top: 45px;
+}

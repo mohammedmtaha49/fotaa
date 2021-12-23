@@ -1,0 +1,32 @@
+c++:-
+https://www.udemy.com/beginning-c-plus-plus-programming/
+https://www.udemy.com/c-for-beginners-concise-and-practical/
+https://www.udemy.com/introduction-to-c-plus-plus/
+--------------------------------------------------------------------
+Data Structures + Algorithms
+https://www.udemy.com/master-the-coding-interview-data.../
+https://www.udemy.com/learn-data-structure-algorithms.../
+--------------------------------------------------------------------
+Design Patterns:
+https://www.udemy.com/java-design-patterns-course/
+==============================================
+Books:
+C++:
+https://amzn.to/2VF0MUo
+https://amzn.to/2VyT8L8
+--------------------------------------------------------------------
+Data Structures:
+https://amzn.to/2C4JE3a
+--------------------------------------------------------------------
+Algorithms:
+https://amzn.to/2XF3Fq6
+--------------------------------------------------------------------
+Design Patterns:
+https://amzn.to/2TxwnKg
+https://goo.gl/wrq9Mz
+==============================================
+Ê √ŒÌ—«° "Õ· «·„‘ﬂ·« " √Ê „« Ì⁄—› »«· problem solving:
+https://www.hackerrank.com
+https://leetcode.com
+https://www.codechef.com
+#”·”·…_«“«Ì_«‘ €·
